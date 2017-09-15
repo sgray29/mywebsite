@@ -1,0 +1,20 @@
+<link href="main.css" rel="stylesheet" type="text/css">
+body {     
+    position: relative;
+} 
+
+.jumbotron {
+    background-color: lightblue; 
+}
+
+h1 {    
+    font-family: Georgia;
+    text-align: center;     
+    font-style: italic;
+    padding-top: 50px; 
+} 
+
+p {     
+    font-family: Arial;     
+    font-size: 20px;     
+} 
